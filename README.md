@@ -1,4 +1,4 @@
-# animator
+# animation
 
 A new Flutter project.
 
